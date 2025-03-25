@@ -1,0 +1,3 @@
+LankaSpire Cinnamon Shop is an e-commerce website that focuses on showcasing the finest quality cinnamon products sourced directly from Sri Lanka. This frontend-only project aims to create an elegant and user-friendly online presence for the cinnamon shop, allowing visitors to explore the variety of cinnamon products, learn about their unique qualities, and view detailed product descriptions. The website will offer a clean and modern design, providing a seamless browsing experience for potential customers interested in premium cinnamon products.
+
+![1706582636862](https://github.com/user-attachments/assets/8afeb7fc-f081-494a-b710-2348708d5bc5)
